@@ -72,14 +72,6 @@ This website is fully responsive and works properly on:
 
 ---
 
-## 👩‍💻 Author
-
-**Suhani Shah**
-
-GitHub: https://github.com/your-github-username
-
----
-
 ## 📄 License
 
 This project is created for learning and educational purposes only.
