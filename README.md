@@ -2,12 +2,6 @@
 
 A modern and responsive E-Commerce website UI developed using HTML, CSS, and Bootstrap. This project is designed based on a Figma design and focuses on creating an attractive user interface for an online T-shirt store.
 
-## 🚀 Live Demo
-
-Add your live project link here:
-
-https://your-live-demo-link.com
-
 ---
 
 ## 📌 Features
